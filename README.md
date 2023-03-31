@@ -6,5 +6,5 @@ I have spent the last 4 years consulting as a frontend web developer for a dozen
 
 Whether you are looking for a frontend lead to lay a good foundation for your next web development project or an experienced React developer to help finish the last user stories before the deadline, [LinkedIn](https://www.linkedin.com/in/anders-damgaard/) is the place to get in touch.
 
-### Latest release 🚀
-I recently released [Create Next Stack](https://www.create-next-stack.com/), an open-source website and CLI tool that helps frontend teams get [Next.js](https://nextjs.org/) projects set up in minutes instead of days. Check it out!
+### Create Next Stack 🚀
+Check out [Create Next Stack](https://www.create-next-stack.com/), an open-source website and CLI tool that helps frontend teams get Next.js projects set up in minutes instead of days.
